@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "https://ahmed.ts.digitalcube.dev",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
